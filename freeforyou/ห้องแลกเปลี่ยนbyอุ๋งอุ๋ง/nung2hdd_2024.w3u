@@ -1,862 +1,46 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 02 สิงหาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 07 สิงหาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
   {
-   "name": "Mon Laferte, I Love You (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mon-Laferte-I-Love-You-2024.jpg",
+   "name": "18×2 Beyond Youthful Days (2024) รักเรายังคิดถึง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
    "stations": [
     {
-     "name": "Mon Laferte, I Love You (2024)",
+     "name": "18×2 Beyond Youthful Days (2024) รักเรายังคิดถึง",
      "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mon-Laferte-I-Love-You-2024.jpg",
-     "url": "https://streamhls.com/view/7e44a46f-47a8-534f-9210-a3618a8365b5.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
+     "url": "https://streamhls.com/view/cd0bf5bc-46b9-5e93-9216-71d0b4e8418d.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "18×2 Beyond Youthful Days (2024) รักเรายังคิดถึง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
+     "url": "https://uidkbhzg527.globalcdn63.one/whwde2b68ce1ccd637db972",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
   {
-   "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mr-Mrs-Mahi.jpg",
+   "name": "Trap (2024) แทร็ป",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Trap.jpg",
    "stations": [
     {
-     "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mr-Mrs-Mahi.jpg",
-     "url": "https://streamhls.com/view/454443a0-5e9c-5141-b260-2b0b1153440c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Mountain Queen: The Summits of Lhakpa Sherpa (2024) ราชินีขุนเขา: ลัคปา เชอร์ปา",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mountain-Queen.jpg",
-   "stations": [
-    {
-     "name": "Mountain Queen: The Summits of Lhakpa Sherpa (2024) ราชินีขุนเขา: ลัคปา เชอร์ปา",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mountain-Queen.jpg",
-     "url": "https://streamhls.com/view/0816cfc9-8f6a-5b8b-8719-16c117501414.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Borderless Fog (2024) หมอกไร้พรมแดน",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Borderless-Fog.jpg",
-   "stations": [
-    {
-     "name": "Borderless Fog (2024) หมอกไร้พรมแดน",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Borderless-Fog.jpg",
-     "url": "https://streamhls.com/view/53cd36b2-4774-508f-9e22-f5d0953410b9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Godzilla Minus One/Minus Color (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
-   "stations": [
-    {
-     "name": "Godzilla Minus One/Minus Color (2024)",
+     "name": "Trap (2024) แทร็ป",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
-     "url": "https://streamhls.com/view/fc3d151a-23b3-50ca-b25a-06e003688c57.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Trap.jpg",
+     "url": "https://streamhls.com/view/5f095df7-26f0-5a88-9301-cec64d84ed1d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "Godzilla Minus One/Minus Color (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
-     "url": "https://streamhls.com/view/71257b23-352c-5dc7-845a-b268ac3c87e3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "เหมรฺย (2024) Cursed (The Promised)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",
-   "stations": [
-    {
-     "name": "เหมรฺย (2024) Cursed (The Promised)",
+     "name": "Trap (2024) แทร็ป",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",
-     "url": "https://streamhls.com/view/016095b0-11b5-5528-8dfd-4b8743b4d0e9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Daddio (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Daddio.jpg",
-   "stations": [
-    {
-     "name": "Daddio (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Daddio.jpg",
-     "url": "https://streamhls.com/view/c4a52e4c-fec3-5209-aa86-5a09e3c60b2b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Exhuma.jpg",
-   "stations": [
-    {
-     "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Exhuma.jpg",
-     "url": "https://streamhls.com/view/c4a52e4c-fec3-5209-aa86-5a09e3c60b2b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Auditors ออดิตปิดคอร์รัปชัน (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a1f41b6b-6348-5293-a6ff-78defe725238.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1fa1769f-8a58-5d55-836f-ee0ea56bcd0f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a0e5d891-7475-504b-b259-2df3202b35a8.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/07040119-557a-598e-865a-105099a92268.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/d6c57733-adbf-56e0-8286-4f42c91b5b54.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1446163b-fce8-5bf1-858a-c8aa5bf1fe59.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/f9a53f38-82d7-59a5-a291-af0ba775fe2a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/ce59791f-6948-588e-abce-6eff7934488f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Dashing Youth ดรุณควบม้าขาว เมามายลมวสันต์ (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c38f4d81-47a1-57df-8072-17f0fb29176f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e79399a5-f73f-56c6-90d6-715c6519ece9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/00a19d3a-2482-5e0d-91e4-219269c83c0d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/35f7ae20-b747-5cea-92b0-8f775af21add.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a3d3c4fb-320b-59f6-aab7-fb0e74d66099.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bb38e382-6273-5b69-98d1-46d8dc9b3cf4.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e6feda1b-0433-5bb2-80c7-b7d398b719a6.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/94d30588-bec1-54db-a527-96797a92cc01.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/5c773b68-5cb3-587f-a80f-d363e20d8fb9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/6e95195c-0567-5d03-8107-f2abd473e3f3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/36e26bd4-17bf-5df4-8f33-ec6115eeaa02.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/22a0f952-39b7-5909-a2a4-0a0a29cbfa76.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/689105c3-4ed5-517a-a3d1-213a0e5b449b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/0f33c115-25be-5cfe-bbef-2662024b9cee.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/2970a28f-1ab3-53b4-b244-64601e02557a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/4d2f5e66-aae9-5d29-8aa4-73dbc1bd2409.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/ae2ffffc-4ffe-500c-96a4-d9e8bd7a038f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e71cf2ee-70d6-5574-b9a2-2cb0840d048e.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e9002e62-7c93-5e7f-94a9-390342d70837.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c004b1ac-c341-50c0-ad74-245dc6f7ddf2.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/768ecabd-ab55-5d23-b4e1-4e409e790387.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "As Beautiful As You เธอผู้เปล่งประกายกว่าแสงดาว (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/d8b49b54-2ddc-57f0-bf5e-e72a54383cea.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/3bc0ffc7-9161-5897-836d-5a944bbd1335.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/4243a596-bcfd-53b7-a771-4358f4c440e4.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c2dcc061-91d9-5d90-9a5d-642adb677ad3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/7bd6a6df-66c1-5cd9-b99e-62c6e8f577d3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e9a79dc4-bdac-57c9-8592-546efb4bc954.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a9650edd-ba03-5ed0-9d88-6fcfb7b72f88.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/18674040-527f-52d0-88f5-23b06ab11934.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/f3828189-9a2a-5499-8d58-e88ac25f0ba9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/f9ad5a48-cdc0-5009-ae80-b2b902d94715.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/492c1da8-587a-506b-91e7-40686cd40455.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e5d4a6a8-df85-5ae8-a636-2683a16dd85c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/674a4e71-a1cc-56c5-9974-994a2608ca67.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c99e2081-0065-54b7-aa20-bd3e57ecc022.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bd238c88-4e34-5cd1-9931-a64751e4739d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/176c298b-754f-5d96-9b15-8edc7381bdbd.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/781ec02a-8ff2-519e-aa27-bae1b348c734.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1bacc217-b049-5d1d-95c3-7b53070ac708.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/6045afa4-6f3f-562a-992b-9baab43e2eb5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/98b5d7d0-23f7-57b3-b684-03f841eab858.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/eb7b7b57-64f9-5cee-bfdf-7ddb88b13369.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1e9aa5ab-86c2-590f-abaf-63392142bb62.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e746baa2-8bc8-51c8-9753-5881c5f3942e.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/4093c702-42cd-5f92-86bc-66fac9838f79.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/4722e127-ef91-5cb2-85df-b1aa497980f6.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/7fe22146-3e69-5a08-8c5f-c53b2531bf46.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1c060ad6-0094-5afb-bc08-5e3b3b6a121e.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 28",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1da79fe1-da15-5d28-878e-427f202ac785.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 29",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/7c4ea582-4370-53f7-aea1-3c033647a9e9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 30",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/88c9176a-403a-532b-9332-ab905d4336f3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 31",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c5356910-55a9-5ec0-8d4f-91287152f3d8.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 32",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/d30db759-5ec0-5da9-83df-8bf3296fda41.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 33",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/ed016277-aa08-51ab-8fdb-6a41add87922.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 34",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/81ddf50d-ac6f-5c4b-929e-0e0d8d895a3a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 35",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/952a700d-97c6-51ee-829d-3871aebd3a60.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 36",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a12a1e92-4477-524b-a522-e3ea26699a7d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 37",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/32baa0dd-7b46-5942-a016-d690623b2e7b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 38",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/84e9b7a4-2696-54f5-8899-d0ac092449a2.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 39",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/30db6fca-f71f-5e85-b3cd-7724839d0b9c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 40",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/f4418c96-a89d-5ece-aa84-60416b5c8603.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "House of the Dragon ตระกูลแห่งมังกร Season 2 (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-   "stations": [
-    {
-     "name": "ซีซั่น 1 ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/ece9655a-99bd-5b9e-8607-3a7dedb74c98.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/56a92957-8cf2-5867-b2e7-1d1642e145fa.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/962bb1ab-a9ac-54ae-8177-7052fec1a9a9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c5e627d6-3875-547b-a835-ab1796a46212.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/43afc5bf-8d27-5a77-a9e6-521296c3fde4.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/42fe222c-b9de-54ca-b915-a2b001891b78.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/fc87aeda-0af1-5a7d-9a00-d52750a27cdc.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1a3ecfdd-4075-54d0-986d-e13daed3bd52.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/3602be6a-fc80-5a6a-9243-58f368ac8bf8.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a8513059-4a11-5b8f-9804-6584d73d0c3c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/3a088f82-3c1f-5145-8b54-cc0e632d0776.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/282e6564-db35-5bd5-bd61-b8e62ff9df57.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/94f030ed-1b9c-5267-a008-7e441e5cd04d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/b8acf15e-6570-5483-b95b-30abf11b90c3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/297bae85-f22b-5a7c-a76b-ee779654a074.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/8cd9a036-4dc0-598e-b893-0649d527e02a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/d1807e1c-707b-5f3e-9ccf-19a80d69d2b2.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/8faafb07-97a7-5128-8886-13862911a425.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1af91b53-22fa-5a5b-8b64-ddcfa7b93bcd.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/d89d4224-501f-5404-8839-7950262c28cf.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/0d77bfea-913b-5c40-aa38-f1b9b346e5ad.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1876b5ad-714f-5746-9fe8-0e4eaea36bad.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/5a3e035e-8ac2-535e-9dbc-9693585403ff.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/7a3d8877-6f17-5cdb-a7dd-f580dbecb390.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/18c44086-f9db-5d1f-80e3-99c8ae71a594.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/dc06fd80-a722-56ae-bcf8-ffc59bb2cffb.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/369c343c-80b3-50c0-a6cf-6b90f3ba2ba0.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/16924964-0d02-5dec-824b-bea21f7ad5db.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/2f88d2ac-aa6a-5dd4-abdc-fc983cf7a160.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a76da6f6-d6fa-5dd8-b28d-2744482873c6.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/5745c0e2-a7de-5f35-a193-85f5cd59a20a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e2bc902f-fdee-5ecc-bda7-c00fb7d7154c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/0dcaef8e-363f-51ee-85e0-6a551ff3c753.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 2 ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a02a9272-86a1-5d21-86de-b4b5e74c1599.m3u8",
-     "referer": "https://www.nung2hdd.com/"
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Trap.jpg",
+     "url": "https://3ch9m7et64.globalcdn08.one/whwf24e688b15f40e7fae",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -919,60 +103,19 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Red-Swan.jpg",
      "url": "https://sgcdnseriesn.xyz/view/31a081d0-2417-5615-86f8-39c930583762.m3u8",
      "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Land of Tanabata พลังลึกลับและรูปริศนาสู่หายนะ (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-   "stations": [
+    },
     {
-     "name": "ตอนที่ 1",
+     "name": "ตอนที่ 9",
      "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/317c7f9a-3002-581e-a59e-aeba9438e1d7.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Red-Swan.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/75a8d8af-458f-575d-886f-5e01df15632c.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ตอนที่ 10",
      "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/f9ae8096-588f-5a8e-9552-e6442fc18dc5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e193bc3b-97e2-5c1d-9972-bcd1c646bb14.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/80eba355-0c3c-5f9e-aff6-0dcb2beb7c41.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/c52abead-c980-584b-90b5-30c19ccf0c78.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/1ab61eff-655d-5454-af53-3a99b4573742.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a1d3142c-6a43-5f4c-9534-4f50675d01cb.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Red-Swan.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/367e6c89-026a-5f73-af6d-a62e63b56127.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -1691,6 +834,1429 @@
    ]
   },
   {
+   "name": "As Beautiful As You เธอผู้เปล่งประกายกว่าแสงดาว (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d8b49b54-2ddc-57f0-bf5e-e72a54383cea.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3bc0ffc7-9161-5897-836d-5a944bbd1335.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4243a596-bcfd-53b7-a771-4358f4c440e4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c2dcc061-91d9-5d90-9a5d-642adb677ad3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7bd6a6df-66c1-5cd9-b99e-62c6e8f577d3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e9a79dc4-bdac-57c9-8592-546efb4bc954.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a9650edd-ba03-5ed0-9d88-6fcfb7b72f88.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/18674040-527f-52d0-88f5-23b06ab11934.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f3828189-9a2a-5499-8d58-e88ac25f0ba9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f9ad5a48-cdc0-5009-ae80-b2b902d94715.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/492c1da8-587a-506b-91e7-40686cd40455.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e5d4a6a8-df85-5ae8-a636-2683a16dd85c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/674a4e71-a1cc-56c5-9974-994a2608ca67.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c99e2081-0065-54b7-aa20-bd3e57ecc022.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bd238c88-4e34-5cd1-9931-a64751e4739d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/176c298b-754f-5d96-9b15-8edc7381bdbd.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/781ec02a-8ff2-519e-aa27-bae1b348c734.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1bacc217-b049-5d1d-95c3-7b53070ac708.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6045afa4-6f3f-562a-992b-9baab43e2eb5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/98b5d7d0-23f7-57b3-b684-03f841eab858.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/eb7b7b57-64f9-5cee-bfdf-7ddb88b13369.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1e9aa5ab-86c2-590f-abaf-63392142bb62.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e746baa2-8bc8-51c8-9753-5881c5f3942e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4093c702-42cd-5f92-86bc-66fac9838f79.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4722e127-ef91-5cb2-85df-b1aa497980f6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7fe22146-3e69-5a08-8c5f-c53b2531bf46.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1c060ad6-0094-5afb-bc08-5e3b3b6a121e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1da79fe1-da15-5d28-878e-427f202ac785.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7c4ea582-4370-53f7-aea1-3c033647a9e9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/88c9176a-403a-532b-9332-ab905d4336f3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c5356910-55a9-5ec0-8d4f-91287152f3d8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d30db759-5ec0-5da9-83df-8bf3296fda41.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ed016277-aa08-51ab-8fdb-6a41add87922.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/81ddf50d-ac6f-5c4b-929e-0e0d8d895a3a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/952a700d-97c6-51ee-829d-3871aebd3a60.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a12a1e92-4477-524b-a522-e3ea26699a7d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/32baa0dd-7b46-5942-a016-d690623b2e7b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/84e9b7a4-2696-54f5-8899-d0ac092449a2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/30db6fca-f71f-5e85-b3cd-7724839d0b9c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/As-Beautiful-As-You.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f4418c96-a89d-5ece-aa84-60416b5c8603.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "House of the Dragon ตระกูลแห่งมังกร Season 2 (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ece9655a-99bd-5b9e-8607-3a7dedb74c98.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/56a92957-8cf2-5867-b2e7-1d1642e145fa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/962bb1ab-a9ac-54ae-8177-7052fec1a9a9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c5e627d6-3875-547b-a835-ab1796a46212.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/43afc5bf-8d27-5a77-a9e6-521296c3fde4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/42fe222c-b9de-54ca-b915-a2b001891b78.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/fc87aeda-0af1-5a7d-9a00-d52750a27cdc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1a3ecfdd-4075-54d0-986d-e13daed3bd52.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3602be6a-fc80-5a6a-9243-58f368ac8bf8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a8513059-4a11-5b8f-9804-6584d73d0c3c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3a088f82-3c1f-5145-8b54-cc0e632d0776.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/282e6564-db35-5bd5-bd61-b8e62ff9df57.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/94f030ed-1b9c-5267-a008-7e441e5cd04d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/b8acf15e-6570-5483-b95b-30abf11b90c3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/297bae85-f22b-5a7c-a76b-ee779654a074.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8cd9a036-4dc0-598e-b893-0649d527e02a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d1807e1c-707b-5f3e-9ccf-19a80d69d2b2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8faafb07-97a7-5128-8886-13862911a425.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1af91b53-22fa-5a5b-8b64-ddcfa7b93bcd.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d89d4224-501f-5404-8839-7950262c28cf.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0d77bfea-913b-5c40-aa38-f1b9b346e5ad.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1876b5ad-714f-5746-9fe8-0e4eaea36bad.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5a3e035e-8ac2-535e-9dbc-9693585403ff.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7a3d8877-6f17-5cdb-a7dd-f580dbecb390.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/18c44086-f9db-5d1f-80e3-99c8ae71a594.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/dc06fd80-a722-56ae-bcf8-ffc59bb2cffb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/369c343c-80b3-50c0-a6cf-6b90f3ba2ba0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/16924964-0d02-5dec-824b-bea21f7ad5db.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/2f88d2ac-aa6a-5dd4-abdc-fc983cf7a160.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a76da6f6-d6fa-5dd8-b28d-2744482873c6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5745c0e2-a7de-5f35-a193-85f5cd59a20a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e2bc902f-fdee-5ecc-bda7-c00fb7d7154c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0dcaef8e-363f-51ee-85e0-6a551ff3c753.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a02a9272-86a1-5d21-86de-b4b5e74c1599.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ab6fe71a-7809-5931-abd7-025aca974fc2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1102bd36-858a-5bba-a5a8-2db8111fd946.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dashing Youth ดรุณควบม้าขาว เมามายลมวสันต์ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6f1a99dd-48a2-548b-b0ee-edcbdc9906a6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c38f4d81-47a1-57df-8072-17f0fb29176f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bc5117fe-be16-57cd-869d-562165007cd4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e79399a5-f73f-56c6-90d6-715c6519ece9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f0227484-29e3-50ea-9c76-a16e34f4de14.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/00a19d3a-2482-5e0d-91e4-219269c83c0d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6a197fe0-54b7-502c-84fa-05a7c8e27e48.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/35f7ae20-b747-5cea-92b0-8f775af21add.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1b075ab4-0f2e-57e6-9372-8f42fd183ce4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a3d3c4fb-320b-59f6-aab7-fb0e74d66099.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/865f99da-bcdb-5dd9-912b-732468530bd2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bb38e382-6273-5b69-98d1-46d8dc9b3cf4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bc9ba137-f0f8-5e38-a411-8d3fcc1ffb43.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e6feda1b-0433-5bb2-80c7-b7d398b719a6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/94d30588-bec1-54db-a527-96797a92cc01.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5c773b68-5cb3-587f-a80f-d363e20d8fb9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6e95195c-0567-5d03-8107-f2abd473e3f3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/36e26bd4-17bf-5df4-8f33-ec6115eeaa02.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/22a0f952-39b7-5909-a2a4-0a0a29cbfa76.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/689105c3-4ed5-517a-a3d1-213a0e5b449b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0f33c115-25be-5cfe-bbef-2662024b9cee.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/2970a28f-1ab3-53b4-b244-64601e02557a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4d2f5e66-aae9-5d29-8aa4-73dbc1bd2409.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ae2ffffc-4ffe-500c-96a4-d9e8bd7a038f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e71cf2ee-70d6-5574-b9a2-2cb0840d048e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e9002e62-7c93-5e7f-94a9-390342d70837.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c004b1ac-c341-50c0-ad74-245dc6f7ddf2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/768ecabd-ab55-5d23-b4e1-4e409e790387.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4f08e892-32f9-5035-86f0-5e8dabaaee68.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bd7844e0-dd66-5cca-a9a6-ceb857ac30a1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bd394299-5148-5e35-9cc2-5a328721baba.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dashing-Youth.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/382245c7-a199-58fd-ab33-99b01a4eb210.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+   "stations": [
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://streamhls.com/view/bb59b370-c56b-5a87-8e44-8d70fa1f7059.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://1ebigcy87.globalcdn13.one/whwa8117af612c91d7d90",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://streamhls.com/view/8e87a443-16fa-55d4-859d-9b675d82462c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://8kwhaj8ha0.globalcdn74.one/whwda0a6c9442f11b5f8d010e",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://streamhls.com/view/fea5c3e3-0535-5401-881f-89e692ee43e2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://hzgzbiqd0.globalcdn21.one/whwd11f7efc29d56176ef74",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://streamhls.com/view/cb1e67b7-97b8-5a05-a9a9-0b369b853d03.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://saayvuko21.globalcdn04.one/whwd9055c9334c03645ba73",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://streamhls.com/view/2c6b937b-4bac-59fe-989b-cc0786a91564.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://o2ge0rwfv17.globalcdn45.one/whwe94f5ce244e92874e952",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://streamhls.com/view/db071c19-b533-5272-b428-0608c8603f97.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://r9bn3kt10.globalcdn03.one/whwd32f42ff3bdc055b954f",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://streamhls.com/view/3b55021f-a445-53d2-8578-56158b2d0891.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://rra9acvir0.globalcdn84.one/whwa94f6ec800ef0748a869",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://streamhls.com/view/ecb9c262-bdc2-5146-849f-0461c1b308ac.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://kcizg0zqq7.globalcdn28.one/whwab2543e50aeb6844a14f",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Rebel Moon: Part One The Directors Cut (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+   "stations": [
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://streamhls.com/view/bb59b370-c56b-5a87-8e44-8d70fa1f7059.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://1ebigcy87.globalcdn13.one/whwa8117af612c91d7d90",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://streamhls.com/view/8e87a443-16fa-55d4-859d-9b675d82462c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon (2023) ภาค 1: บุตรแห่งเปลวไฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Rebel-Moon1-1.jpg",
+     "url": "https://8kwhaj8ha0.globalcdn74.one/whwda0a6c9442f11b5f8d010e",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://streamhls.com/view/fea5c3e3-0535-5401-881f-89e692ee43e2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://hzgzbiqd0.globalcdn21.one/whwd11f7efc29d56176ef74",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://streamhls.com/view/cb1e67b7-97b8-5a05-a9a9-0b369b853d03.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon – Part Two: The Scargiver (2024) เรเบลมูน ภาค 2: นักรบผู้ตีตรา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rebel-Moon.jpg",
+     "url": "https://saayvuko21.globalcdn04.one/whwd9055c9334c03645ba73",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://streamhls.com/view/2c6b937b-4bac-59fe-989b-cc0786a91564.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://o2ge0rwfv17.globalcdn45.one/whwe94f5ce244e92874e952",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://streamhls.com/view/db071c19-b533-5272-b428-0608c8603f97.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part One The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-111.jpg",
+     "url": "https://r9bn3kt10.globalcdn03.one/whwd32f42ff3bdc055b954f",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://streamhls.com/view/3b55021f-a445-53d2-8578-56158b2d0891.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://rra9acvir0.globalcdn84.one/whwa94f6ec800ef0748a869",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://streamhls.com/view/ecb9c262-bdc2-5146-849f-0461c1b308ac.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rebel Moon: Part Two The Directors Cut (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Rebel-Moon-2.jpg",
+     "url": "https://kcizg0zqq7.globalcdn28.one/whwab2543e50aeb6844a14f",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Modern Masters: SS Rajamouli (2024) ปรมาจารย์ยุคใหม่: เอสเอส ราจามูลี",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Modern-Masters-SS-Rajamouli.jpg",
+   "stations": [
+    {
+     "name": "Modern Masters: SS Rajamouli (2024) ปรมาจารย์ยุคใหม่: เอสเอส ราจามูลี",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Modern-Masters-SS-Rajamouli.jpg",
+     "url": "https://streamhls.com/view/4f7550ca-ca22-5042-856a-40137103cefa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Modern Masters: SS Rajamouli (2024) ปรมาจารย์ยุคใหม่: เอสเอส ราจามูลี",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Modern-Masters-SS-Rajamouli.jpg",
+     "url": "https://efq6fzo8n29.globalcdn68.one/whwda4a62f203a80449bd03",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie.jpg",
+   "stations": [
+    {
+     "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie.jpg",
+     "url": "https://streamhls.com/view/cf9aec33-8f42-52e3-83dc-888cc66fcdc0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie.jpg",
+     "url": "https://csaikivqt11.globalcdn20.one/whwaf354d9e44f81947f5",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie.jpg",
+     "url": "https://streamhls.com/view/ae5af626-e626-5327-b8a4-ce82e6b10ece.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie.jpg",
+     "url": "https://fsxdgtwzb24.globalcdn57.one/whwa84e5ed32af57c4eec00",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
+   "stations": [
+    {
+     "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
+     "url": "https://streamhls.com/view/88eb80cf-3117-515b-84e2-d1de2cd9d0f1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
+     "url": "https://zmg8vtefi27.globalcdn12.one/whwf53469922bac356bb65121",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
+     "url": "https://streamhls.com/view/a854c680-f9aa-5b83-a457-5df85915467d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
+     "url": "https://rxpg9psh420.globalcdn49.one/whwfa1458f700cf103fbd64",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
+   "stations": [
+    {
+     "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
+     "url": "https://streamhls.com/view/9d9d3f5e-cf7a-5af6-98b1-b538724ee4e5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
+     "url": "https://wvycexq5z11.globalcdn33.one/whwa8055dc839a8027f9d07",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
+     "url": "https://streamhls.com/view/cfd1420e-4fa2-5180-92a1-511270dd6188.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
+     "url": "https://uabqkth42.globalcdn05.one/whwfb44629e0ac912569278",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Mon Laferte, I Love You (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mon-Laferte-I-Love-You-2024.jpg",
+   "stations": [
+    {
+     "name": "Mon Laferte, I Love You (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mon-Laferte-I-Love-You-2024.jpg",
+     "url": "https://streamhls.com/view/7e44a46f-47a8-534f-9210-a3618a8365b5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mon Laferte, I Love You (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mon-Laferte-I-Love-You-2024.jpg",
+     "url": "https://qma4zon314.globalcdn38.one/whwb53770cb1eac0238e106",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mr-Mrs-Mahi.jpg",
+   "stations": [
+    {
+     "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mr-Mrs-Mahi.jpg",
+     "url": "https://streamhls.com/view/454443a0-5e9c-5141-b260-2b0b1153440c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mr-Mrs-Mahi.jpg",
+     "url": "https://go5tilu00.globalcdn16.one/whwd24e1bca15d434358266",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Mountain Queen: The Summits of Lhakpa Sherpa (2024) ราชินีขุนเขา: ลัคปา เชอร์ปา",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mountain-Queen.jpg",
+   "stations": [
+    {
+     "name": "Mountain Queen: The Summits of Lhakpa Sherpa (2024) ราชินีขุนเขา: ลัคปา เชอร์ปา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mountain-Queen.jpg",
+     "url": "https://streamhls.com/view/0816cfc9-8f6a-5b8b-8719-16c117501414.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mountain Queen: The Summits of Lhakpa Sherpa (2024) ราชินีขุนเขา: ลัคปา เชอร์ปา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Mountain-Queen.jpg",
+     "url": "https://dkkqg0gad23.globalcdn55.one/whwf11e72c90af71b21b953",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Borderless Fog (2024) หมอกไร้พรมแดน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Borderless-Fog.jpg",
+   "stations": [
+    {
+     "name": "Borderless Fog (2024) หมอกไร้พรมแดน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Borderless-Fog.jpg",
+     "url": "https://streamhls.com/view/53cd36b2-4774-508f-9e22-f5d0953410b9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Borderless Fog (2024) หมอกไร้พรมแดน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Borderless-Fog.jpg",
+     "url": "https://uw2rxud4i0.globalcdn44.one/whwf70844f22af71249ec58",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Godzilla Minus One/Minus Color (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+   "stations": [
+    {
+     "name": "Godzilla Minus One/Minus Color (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+     "url": "https://streamhls.com/view/fc3d151a-23b3-50ca-b25a-06e003688c57.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Godzilla Minus One/Minus Color (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+     "url": "https://vebs2gqrn5.globalcdn09.one/whwf34b7cd339d21535ad061d",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Godzilla Minus One/Minus Color (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+     "url": "https://streamhls.com/view/71257b23-352c-5dc7-845a-b268ac3c87e3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Godzilla Minus One/Minus Color (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+     "url": "https://6tehqrdtz0.globalcdn09.one/whwc11f6cc134c0686d8f77",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "เหมรฺย (2024) Cursed (The Promised)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",
+   "stations": [
+    {
+     "name": "เหมรฺย (2024) Cursed (The Promised)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",
+     "url": "https://streamhls.com/view/016095b0-11b5-5528-8dfd-4b8743b4d0e9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เหมรฺย (2024) Cursed (The Promised)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",
+     "url": "https://dkkqg0gad23.globalcdn55.one/whwed0f6cc939d8055aa875",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Daddio (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Daddio.jpg",
+   "stations": [
+    {
+     "name": "Daddio (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Daddio.jpg",
+     "url": "https://streamhls.com/view/c4a52e4c-fec3-5209-aa86-5a09e3c60b2b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Daddio (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Daddio.jpg",
+     "url": "https://bl6hqpqe892.globalcdn06.one/whwa9495df639cd0854bf73",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Exhuma.jpg",
+   "stations": [
+    {
+     "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Exhuma.jpg",
+     "url": "https://streamhls.com/view/c4a52e4c-fec3-5209-aa86-5a09e3c60b2b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Exhuma.jpg",
+     "url": "https://bl6hqpqe892.globalcdn06.one/whwa9495df639cd0854bf73",
+     "referer": "https://abysscdn.com"
+    }
+   ]
+  },
+  {
+   "name": "The Auditors ออดิตปิดคอร์รัปชัน (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a1f41b6b-6348-5293-a6ff-78defe725238.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1fa1769f-8a58-5d55-836f-ee0ea56bcd0f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a0e5d891-7475-504b-b259-2df3202b35a8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/07040119-557a-598e-865a-105099a92268.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d6c57733-adbf-56e0-8286-4f42c91b5b54.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1446163b-fce8-5bf1-858a-c8aa5bf1fe59.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f9a53f38-82d7-59a5-a291-af0ba775fe2a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Auditors.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ce59791f-6948-588e-abce-6eff7934488f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Tanabata พลังลึกลับและรูปริศนาสู่หายนะ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/317c7f9a-3002-581e-a59e-aeba9438e1d7.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f9ae8096-588f-5a8e-9552-e6442fc18dc5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e193bc3b-97e2-5c1d-9972-bcd1c646bb14.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/80eba355-0c3c-5f9e-aff6-0dcb2beb7c41.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c52abead-c980-584b-90b5-30c19ccf0c78.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1ab61eff-655d-5454-af53-3a99b4573742.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Land-of-Tanabata.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a1d3142c-6a43-5f4c-9534-4f50675d01cb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "Kill (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Kill-2023.jpg",
    "stations": [
@@ -1700,6 +2266,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Kill-2023.jpg",
      "url": "https://streamhls.com/view/3ab3fded-0b3e-5002-9528-5c5ebabb702d.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Kill (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Kill-2023.jpg",
+     "url": "https://d33ohxjb50.globalcdn78.one/whwf7284edf2bee1a7fe0",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1716,23 +2289,24 @@
     },
     {
      "name": "Yolo (2024) หมวยย้วย…มวยไม่ยอมม้วย",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
+     "url": "https://weqsy470j9.globalcdn17.one/whwd31f60e703ca177caf7c",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Yolo (2024) หมวยย้วย…มวยไม่ยอมม้วย",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
      "url": "https://streamhls.com/view/f38caf9f-ec02-50e7-be85-0fd507296c36.m3u8",
      "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
-   "stations": [
+    },
     {
-     "name": "A Quiet Place: Day One (2024) ดินแดนไร้เสียง: วันที่หนึ่ง",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One.jpg",
-     "url": "https://streamhls.com/view/88eb80cf-3117-515b-84e2-d1de2cd9d0f1.m3u8",
-     "referer": "https://www.nung2hdd.com/"
+     "name": "Yolo (2024) หมวยย้วย…มวยไม่ยอมม้วย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
+     "url": "https://zxnrlt3t0.globalcdn60.one/whwea3168e047d21b449c0731",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1746,6 +2320,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/House-of-Ga-a-2024.jpg",
      "url": "https://streamhls.com/view/2f538f77-0dae-55d8-bb0b-02aa4377f8bf.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "House of Ga’a (2024) บัลลังก์แห่งกาอา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/House-of-Ga-a-2024.jpg",
+     "url": "https://ure22f3i316.globalcdn43.one/whwf44c499444ad3564ba66269d",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1759,6 +2340,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/No-negociable.jpg",
      "url": "https://streamhls.com/view/5746a6c0-87e1-5d10-a3ad-cfd155701868.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Non Negotiable (2024) เจรจาท้ารัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/No-negociable.jpg",
+     "url": "https://w96r4y31g13.globalcdn36.one/whwf71912dc5ef03739b3641b",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1775,10 +2363,24 @@
     },
     {
      "name": "Wonderland (2024) วันเดอร์แลนด์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wonderland-2024.jpg",
+     "url": "https://ssvraku20.globalcdn67.one/whwc72c5bc439f76660a26917",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Wonderland (2024) วันเดอร์แลนด์",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wonderland-2024.jpg",
      "url": "https://streamhls.com/view/ff820d06-a409-58b3-bbbb-fc461de990ed.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Wonderland (2024) วันเดอร์แลนด์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wonderland-2024.jpg",
+     "url": "https://3tm8dxhnb0.globalcdn77.one/whwa1331acc3af73e3f816003",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1792,6 +2394,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pee-Nak.jpg",
      "url": "https://streamhls.com/view/21e32aa1-65f0-546b-8f23-d92c0ace9e4f.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "พี่นาค 4 (2024) Pee Nak 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pee-Nak.jpg",
+     "url": "https://ypwolo5vr1.globalcdn82.one/whwfb0a12e024c5273d886536",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -1805,6 +2414,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
      "url": "https://streamhls.com/view/ce1ff0d4-8fb2-53e3-a783-94c87a29016c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
+     "url": "https://8kwhaj8ha0.globalcdn74.one/whwca4d72ca07f3034ee0",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -2356,10 +2972,24 @@
     },
     {
      "name": "Bad Boys: Ride or Die (2024) คู่หูขวางนรก: ลุยต่อให้โลกจำ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die.jpg",
+     "url": "https://7tim0oqs21.globalcdn81.one/whwff2478ee40af3067880417",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Bad Boys: Ride or Die (2024) คู่หูขวางนรก: ลุยต่อให้โลกจำ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die.jpg",
      "url": "https://streamhls.com/view/8b96e747-4dde-580b-954e-38131cd7e9e2.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Bad Boys: Ride or Die (2024) คู่หูขวางนรก: ลุยต่อให้โลกจำ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die.jpg",
+     "url": "https://zdkzqvfqvx12.globalcdn23.one/whwd0066ec927c8275681053a92",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -2376,10 +3006,24 @@
     },
     {
      "name": "Lift (2024) ปล้นเหนือเมฆ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Lift.jpg",
+     "url": "https://saayvuko21.globalcdn04.one/whweb126fce1bd9075694",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Lift (2024) ปล้นเหนือเมฆ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Lift.jpg",
      "url": "https://streamhls.com/view/c7f5fc98-25c5-5767-8762-134f8ebdd538.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Lift (2024) ปล้นเหนือเมฆ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Lift.jpg",
+     "url": "https://uabqkth42.globalcdn05.one/whwf32f42c124ea353a9a",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -2396,10 +3040,24 @@
     },
     {
      "name": "Role Play (2024) โรลเพลย์ สวมรอยมารัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
+     "url": "https://weqsy470j9.globalcdn17.one/whwab2545c000da345daf",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Role Play (2024) โรลเพลย์ สวมรอยมารัก",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
      "url": "https://streamhls.com/view/aea9df5b-95fa-575c-b867-b6dcf7c48779.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Role Play (2024) โรลเพลย์ สวมรอยมารัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
+     "url": "https://vx1jv4l6m6.globalcdn11.one/whwc2155ce238fe33479a",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -2416,10 +3074,24 @@
     },
     {
      "name": "Sixty Minutes (2024) 60 นาที",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sixty-Minutes.png",
+     "url": "https://iqhlled2m0.globalcdn02.one/whwd1364c9e47ac3d5db6",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Sixty Minutes (2024) 60 นาที",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sixty-Minutes.png",
      "url": "https://streamhls.com/view/d519f845-0dce-5fa2-8983-782e50df38c1.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Sixty Minutes (2024) 60 นาที",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sixty-Minutes.png",
+     "url": "https://62a2xqvqaq3.globalcdn86.one/whwcf4459c416d63674ae",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -3891,6 +4563,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024.jpg",
      "url": "https://streamhls.com/view/f4fb367d-9a0a-58d1-9be4-07deb567976f.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Skywalkers A Love Story (2024) คู่รักนักไต่ฟ้า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024.jpg",
+     "url": "https://kpzpo1f0.globalcdn89.one/whwea3219cc37d315349d0161",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -3907,10 +4586,24 @@
     },
     {
      "name": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Find-Me-Falling.jpg",
+     "url": "https://gojhjy9gy0.globalcdn01.one/whwd03d7ec232fe666ff54f20",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Find-Me-Falling.jpg",
      "url": "https://streamhls.com/view/6f7fe2cb-f9f2-5b3b-94fd-e396d272401b.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Find-Me-Falling.jpg",
+     "url": "https://spjhpij0.globalcdn42.one/whwf423479234f61334e1072d",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -3924,6 +4617,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Young-Woman-and-the-Sea.jpg",
      "url": "https://streamhls.com/view/d360928b-480b-5fbe-b66e-c9dcb8af106f.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Young Woman and the Sea (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Young-Woman-and-the-Sea.jpg",
+     "url": "https://sw5tjd2p021.globalcdn51.one/whwc93a1bf51cd900428c0e25",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -3937,6 +4637,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Unsung-Hero.jpg",
      "url": "https://streamhls.com/view/d0c3c439-07b2-544e-bfcb-4279a8249431.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Unsung Hero (2024) รัก ฝัน ศรัทธา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Unsung-Hero.jpg",
+     "url": "https://g947zebqty9.globalcdn31.one/whwd3294bc319a6205ead5204",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -3953,10 +4660,24 @@
     },
     {
      "name": "My Spy the Eternal City (2024) พยัตฆ์ร้าย สปายแสบ: คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Spy-the-Eternal-City.jpg",
+     "url": "https://3ch9m7et64.globalcdn08.one/whwab3f5dd724c61669b1010b",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "My Spy the Eternal City (2024) พยัตฆ์ร้าย สปายแสบ: คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Spy-the-Eternal-City.jpg",
      "url": "https://streamhls.com/view/e0a5068d-9f74-5bdd-9173-c0c1d24ba59f.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "My Spy the Eternal City (2024) พยัตฆ์ร้าย สปายแสบ: คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Spy-the-Eternal-City.jpg",
+     "url": "https://pkvui0ylwd9.globalcdn96.one/whwc94e5ee412c91b5b896e13b9",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4079,6 +4800,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Curbing-Violence.jpg",
      "url": "https://streamhls.com/view/531a1f7c-33d7-530b-ac5c-17af1b8b7057.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Curbing Violence (2024) ปฏิบัติการช่วยเธอจากนรก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Curbing-Violence.jpg",
+     "url": "https://yz0gsbl03.globalcdn07.one/whwe2161f943fcb1446ed7413",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4518,6 +5246,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
      "url": "https://streamhls.com/view/f4a8aaa2-e58c-52ed-b50d-a22527e6abd4.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
+     "url": "https://hzgzbiqd0.globalcdn21.one/whwfe3b6d9435d01956bb6366",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4531,6 +5266,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
      "url": "https://streamhls.com/view/13b2dba0-2a99-5f91-958f-6153d3cc49aa.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "My Home Hero the Movie (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
+     "url": "https://pbpojkaa633.globalcdn73.one/whwce3b5acc1cd31f6eba6315",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4544,6 +5286,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024.jpg",
      "url": "https://streamhls.com/view/98163ebf-3c23-5a52-b413-c1390663e28e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Descendants: The Rise of Red (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024.jpg",
+     "url": "https://zxpctdr5w0.globalcdn35.one/whwd63e40d704ee224b955964",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4633,6 +5382,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Champion-2024.jpg",
      "url": "https://streamhls.com/view/529eba81-a56a-5d70-ada7-cef66ca7f7c8.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Champion (2024) เดอะ แชมเปี้ยน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Champion-2024.jpg",
+     "url": "https://9ydhdiros0.globalcdn25.one/whwaa3e1ec436a8676e956e39",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4646,6 +5402,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Maamannan.jpg",
      "url": "https://streamhls.com/view/ae008cee-a72d-59d3-aad3-3ba11d5cdf13.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Maamannan (2023) มามันนัน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Maamannan.jpg",
+     "url": "https://htunxijf6.globalcdn33.one/whwf90b7ff43ad92464886713",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4659,6 +5422,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Lobola-Man.jpg",
      "url": "https://streamhls.com/view/4721b4f6-1da6-52d8-8f5f-2f2b12f34000.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Lobola Man (2024) โลโบลา แมน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Lobola-Man.jpg",
+     "url": "https://rf8ntyesy30.globalcdn69.one/whwfd4d4df007f50b7aef55",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -4675,10 +5445,24 @@
     },
     {
      "name": "Blame the Game (2024) รักลุ้น… วุ่นเพราะเกม",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Blame-the-Game.jpg",
+     "url": "https://gojhjy9gy0.globalcdn01.one/whwd3156c9438da04758d7c30",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Blame the Game (2024) รักลุ้น… วุ่นเพราะเกม",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Blame-the-Game.jpg",
      "url": "https://streamhls.com/view/c7c25783-da67-5363-87ba-c730890397b4.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Blame the Game (2024) รักลุ้น… วุ่นเพราะเกม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Blame-the-Game.jpg",
+     "url": "https://q4st02jsi19.globalcdn48.one/whwa83d138b35ef0559ba7279",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5034,6 +5818,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Vanished-into-the-Night.jpg",
      "url": "https://streamhls.com/view/4cae7418-8c0d-5285-a5b2-75f6e4702f02.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Vanished into the Night (2024) ค่ำคืนกลืนหาย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Vanished-into-the-Night.jpg",
+     "url": "https://o2ge0rwfv17.globalcdn45.one/whwc0081bf317cf0435915120",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5047,6 +5838,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Leha.jpg",
      "url": "https://streamhls.com/view/769c864f-7468-57b3-bbcf-dbe1b73d0f23.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Leha (2024) เลฮา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Leha.jpg",
+     "url": "https://jfvk16uz0h22.globalcdn53.one/whweb3178d01ec0634aa84c22",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5060,6 +5858,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Handling-the-Undead-2024.jpg",
      "url": "https://streamhls.com/view/6f97bd31-4dc8-5bef-b597-638721ae20fa.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Handling the Undead (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Handling-the-Undead-2024.jpg",
+     "url": "https://wvflr6iyed24.globalcdn58.one/whwe83e1b9435c03e3ab57d7999",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5076,23 +5881,24 @@
     },
     {
      "name": "Tyler Perry’s Divorce in the Black (2024) รัก ร้าง ร้าว: เรื่องราวของไทเลอร์ เพอร์รี่",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black.jpg",
+     "url": "https://thoq7vs522.globalcdn52.one/whwc91a6d9e19af3b56e05918",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Tyler Perry’s Divorce in the Black (2024) รัก ร้าง ร้าว: เรื่องราวของไทเลอร์ เพอร์รี่",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black.jpg",
      "url": "https://streamhls.com/view/94dad43a-44ba-5ac7-878e-bdb6fb9b6538.m3u8",
      "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
-   "stations": [
+    },
     {
-     "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",
-     "url": "https://streamhls.com/view/f192af22-f7d4-5ceb-a50a-d09fe0dd3c16.m3u8",
-     "referer": "https://www.nung2hdd.com/"
+     "name": "Tyler Perry’s Divorce in the Black (2024) รัก ร้าง ร้าว: เรื่องราวของไทเลอร์ เพอร์รี่",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black.jpg",
+     "url": "https://2fer4oa0.globalcdn07.one/whwd22e5acb26e7656d9c5816",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5109,10 +5915,24 @@
     },
     {
      "name": "Wild Wild Punjab ปัญจาบป่วน มันส์ ฮา (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab.jpg",
+     "url": "https://qf4gejm0l2.globalcdn83.one/whwdd5178c103cb2368a05d65",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Wild Wild Punjab ปัญจาบป่วน มันส์ ฮา (2024)",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab.jpg",
      "url": "https://streamhls.com/view/a519a9a4-2eda-5681-b27b-4eed93d510a2.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Wild Wild Punjab ปัญจาบป่วน มันส์ ฮา (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab.jpg",
+     "url": "https://spjhpij0.globalcdn42.one/whwaf4c07923ddc3b3c9b5b18",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5692,6 +6512,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Despicable-Me-4.jpg",
      "url": "https://streamhls.com/view/923b7997-3586-5c5f-942d-6563b01df3bf.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Despicable Me 4 (2024) มิสเตอร์แสบ ร้ายเกินพิกัด 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Despicable-Me-4.jpg",
+     "url": "https://thoq7vs522.globalcdn52.one/whwb54d1bf219a9235e8d0e0b",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5708,10 +6535,24 @@
     },
     {
      "name": "The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024.jpg",
+     "url": "https://sw5tjd2p021.globalcdn51.one/whwa03068d712fa3c3eb561",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024.jpg",
      "url": "https://streamhls.com/view/ce51e238-5b3f-5276-8bfa-013c7a775a39.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024.jpg",
+     "url": "https://bhnq74hfz35.globalcdn78.one/whweb1969c82cc6104ebb4426",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5725,6 +6566,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pagpag-247-2024.jpg",
      "url": "https://streamhls.com/view/b0d97e47-eb52-5d11-a72b-9fa5ec79782a.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Pagpag 24/7 (2024) ร้านสะดวกหลอน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pagpag-247-2024.jpg",
+     "url": "https://zfs6ipblc0.globalcdn20.one/whwae1e46c80be710619d7738",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5963,10 +6811,24 @@
     },
     {
      "name": "The Beekeeper (2024) นรกเรียกพ่อ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Beekeeper-2024.png",
+     "url": "https://c4vbvwxve5.globalcdn89.one/whwfe386c8b09f212359547",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Beekeeper (2024) นรกเรียกพ่อ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Beekeeper-2024.png",
      "url": "https://streamhls.com/view/ac60bae0-ca0f-5d49-a905-c1f36dffab3e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Beekeeper (2024) นรกเรียกพ่อ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Beekeeper-2024.png",
+     "url": "https://kcizg0zqq7.globalcdn28.one/whwf13f5bf332d5646a9446",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -5983,10 +6845,24 @@
     },
     {
      "name": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Tarot.jpg",
+     "url": "https://ure22f3i316.globalcdn43.one/whwdc317aff0acb176fbf47",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Tarot.jpg",
      "url": "https://streamhls.com/view/b5b6b265-5e45-5f0d-914b-f3dd28743d1a.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Tarot.jpg",
+     "url": "https://dkkqg0gad23.globalcdn55.one/whwcc095acd3adb1a64a86f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6093,10 +6969,24 @@
     },
     {
      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg",
+     "url": "https://lny14lokd8.globalcdn14.one/whwef097fc439fa17609c07",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg",
      "url": "https://streamhls.com/view/0e90d6e7-8bdf-55c4-b83b-d9ac6883b51e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg",
+     "url": "https://q0bhgaoee28.globalcdn64.one/whwfd1769f312e7296b8d",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6113,10 +7003,24 @@
     },
     {
      "name": "Furiosa: A Mad Max Saga (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",
+     "url": "https://slbbtblu0.globalcdn31.one/whwd4315aef4bce3f56b15b",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Furiosa: A Mad Max Saga (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",
      "url": "https://streamhls.com/view/20965d95-f61a-54ba-8122-481679377bca.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Furiosa: A Mad Max Saga (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",
+     "url": "https://sw5tjd2p021.globalcdn51.one/whwcf2c79e90bd4215de87e",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6133,10 +7037,24 @@
     },
     {
      "name": "Beverly Hills Cop: Axel F (2024) โปลิศจับตำรวจ: เอ็กเซล เอฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F.jpg",
+     "url": "https://r7fzc6fy32.globalcdn72.one/whwf51b4b9f1ca81549b75e",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Beverly Hills Cop: Axel F (2024) โปลิศจับตำรวจ: เอ็กเซล เอฟ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F.jpg",
      "url": "https://streamhls.com/view/8d8cdaf1-bb73-5769-a3ee-b97b407b780e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Beverly Hills Cop: Axel F (2024) โปลิศจับตำรวจ: เอ็กเซล เอฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F.jpg",
+     "url": "https://2oasojer131.globalcdn70.one/whwda517fd21fc0265a9363",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6150,6 +7068,20 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024.jpg",
      "url": "https://streamhls.com/view/6c0df2a0-4322-5873-9d24-fc492e901ceb.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Pattaya Heat (2024) ปิดเมืองล่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/embed/4c5ybnixag/",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Pattaya Heat (2024) ปิดเมืองล่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024.jpg",
+     "url": "https://o1myvahqk0.globalcdn75.one/whwed496bf91ee8386b9900",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6166,10 +7098,24 @@
     },
     {
      "name": "The Imaginary (2024) จินตนาการ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Imaginary.jpg",
+     "url": "https://8kwhaj8ha0.globalcdn74.one/whwd33b44962cce35548b67",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Imaginary (2024) จินตนาการ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Imaginary.jpg",
      "url": "https://streamhls.com/view/c4d0ff6e-5910-576b-82ed-5b73225bbf92.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Imaginary (2024) จินตนาการ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Imaginary.jpg",
+     "url": "https://3ffwriz0.globalcdn17.one/whwed2d6be83edc6375b066",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6186,10 +7132,24 @@
     },
     {
      "name": "Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Space-Cadet.jpg",
+     "url": "https://2llicybao15.globalcdn40.one/whwef0946cf1ee83b218a7b",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Space-Cadet.jpg",
      "url": "https://streamhls.com/view/51e0ccf6-f907-561c-b3fb-e0ec9509bb15.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Space-Cadet.jpg",
+     "url": "https://zi8c1safrm20.globalcdn50.one/whweb4f69dc1ec71d40b777",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6206,10 +7166,24 @@
     },
     {
      "name": "Goyo (2024) โกโย่",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Goyo-2024.jpg",
+     "url": "https://wmutjuwx10.globalcdn02.one/whwfe2e79d01dd66666b764",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Goyo (2024) โกโย่",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Goyo-2024.jpg",
      "url": "https://streamhls.com/view/520f7123-830b-5f46-9b18-4bddd6376982.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Goyo (2024) โกโย่",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Goyo-2024.jpg",
+     "url": "https://5u0mr6otd0.globalcdn24.one/whwab296bd526ea3740af00",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6226,10 +7200,24 @@
     },
     {
      "name": "The Roundup: No Way Out (2023) บู๊ระห่ำล่าล้างนรก: ทุบนรกแตก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out2023.jpg",
+     "url": "https://wmutjuwx10.globalcdn02.one/whwc03b7de936c62b6a9f",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Roundup: No Way Out (2023) บู๊ระห่ำล่าล้างนรก: ทุบนรกแตก",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out2023.jpg",
      "url": "https://streamhls.com/view/008c75db-9062-53ee-99b5-7db917cb005b.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Roundup: No Way Out (2023) บู๊ระห่ำล่าล้างนรก: ทุบนรกแตก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out2023.jpg",
+     "url": "https://qtwgnncggk7.globalcdn13.one/whwf0144fff21d4157fb9",
+     "referer": "https://abysscdn.com"
     },
     {
      "name": "The Roundup: Punishment (2024) บู๊ระห่ำล่าล้างนรก: นรกลงทัณฑ์",
@@ -6237,6 +7225,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Roundup-Punishment.jpg",
      "url": "https://streamhls.com/view/93ff213b-2b7c-5e47-9874-2e7982b5b642.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Roundup: Punishment (2024) บู๊ระห่ำล่าล้างนรก: นรกลงทัณฑ์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Roundup-Punishment.jpg",
+     "url": "https://pbpojkaa633.globalcdn73.one/whwfd1f48ce2ba9144da143",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6250,6 +7245,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Bhaje-Vaayu-Vegam.jpg",
      "url": "https://streamhls.com/view/f8f63e6b-f910-5088-a1fd-28bf316260ac.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Bhaje Vaayu Vegam (2024) เดิมพันอันตราย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Bhaje-Vaayu-Vegam.jpg",
+     "url": "https://fsxdgtwzb24.globalcdn57.one/whwd20b5ee72ba8324bbc5b",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6266,10 +7268,24 @@
     },
     {
      "name": "IF (2024) เพื่อนในจินตนาการ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/IF-2024.jpg",
+     "url": "https://ehfk4vd5c7.globalcdn12.one/whwcb4413d411d716678e59",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "IF (2024) เพื่อนในจินตนาการ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/IF-2024.jpg",
      "url": "https://streamhls.com/view/607ff0bf-b225-53af-8d31-9e4215e95407.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "IF (2024) เพื่อนในจินตนาการ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/IF-2024.jpg",
+     "url": "https://rf8ntyesy30.globalcdn69.one/whwcc4f45e427f10275886e",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6283,6 +7299,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dark-Forest-2024.jpg",
      "url": "https://streamhls.com/view/7a9ef4cb-5a7c-505e-b922-ed92140dcb44.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Dark Forest (2024) ป่าอันมืดมิด",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dark-Forest-2024.jpg",
+     "url": "https://vhuxjwoic26.globalcdn61.one/whwc00618f40ad10e439577",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6299,10 +7322,24 @@
     },
     {
      "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+     "url": "https://wmutjuwx10.globalcdn02.one/whwcc171ae029c02848e11b",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
      "url": "https://streamhls.com/view/c06d6ecb-b487-5bc5-b487-ffaba940930c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+     "url": "https://vjk6e5dhj4.globalcdn08.one/whwdd0647ce04d9647f8f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6754,6 +7791,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Tan-Ti-Ana-2024.jpg",
      "url": "https://streamhls.com/view/b4f21654-6ea8-5d31-a02f-db038fecb302.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Tan-Ti-Ana (2024) ทัน-ติ-อนา (จ้างผีมาแสดงหนังผี)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Tan-Ti-Ana-2024.jpg",
+     "url": "https://x4x7s1pg9.globalcdn95.one/whwf44e7fff2cd01f749e69",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6767,6 +7811,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
      "url": "https://streamhls.com/view/6a8cd3d0-5ea2-592c-8ba1-f0e28ade679f.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
+     "url": "https://2h5vewvmp8.globalcdn94.one/whwea1013d719e8344bad58",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6780,6 +7831,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Watchers.jpg",
      "url": "https://streamhls.com/view/1301dfab-6882-5638-a3b9-67503188cd81.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Watchers (2024) เดอะ วอทเชอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Watchers.jpg",
+     "url": "https://c242f1sfo0.globalcdn76.one/whwdd3318d545d5333de803",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6796,10 +7854,24 @@
     },
     {
      "name": "A Family Affair (2024) เรื่อง (รัก) ในครอบครัว",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/A-Family-Affair.jpg",
+     "url": "https://z0wpghaegf2.globalcdn06.one/whwfc3373cc25b200659244",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "A Family Affair (2024) เรื่อง (รัก) ในครอบครัว",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/A-Family-Affair.jpg",
      "url": "https://streamhls.com/view/e6cf82b9-ef1f-5438-9918-2809879ce835.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "A Family Affair (2024) เรื่อง (รัก) ในครอบครัว",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/A-Family-Affair.jpg",
+     "url": "https://thoq7vs522.globalcdn52.one/whwae237acd1af609608147",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -6816,10 +7888,24 @@
     },
     {
      "name": "Drawing Closer (2024) วาดรัก… จนกว่าจะหมดเวลา",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
+     "url": "https://rxpg9psh420.globalcdn49.one/whwfc0542e143e91b3eac64",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Drawing Closer (2024) วาดรัก… จนกว่าจะหมดเวลา",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
      "url": "https://streamhls.com/view/1ce4b198-9d56-57af-b986-252a779877ca.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Drawing Closer (2024) วาดรัก… จนกว่าจะหมดเวลา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
+     "url": "https://jfvk16uz0h22.globalcdn53.one/whwfa0c4cff1dad624fbb52",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7321,6 +8407,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/I-Am-Celine-Dion.jpg",
      "url": "https://streamhls.com/view/601eb744-bc2d-543d-beea-c464f3bf494e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "I Am: Celine Dion (2024) ฉันนี่แหละเซลีน ดิออน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/I-Am-Celine-Dion.jpg",
+     "url": "https://1i6dz5tft12.globalcdn35.one/whwc90944f901c013439272",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7334,6 +8427,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Good-Game.jpg",
      "url": "https://streamhls.com/view/0ee00b9e-f287-5295-bc21-da01c9db1906.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "GG: Good Game (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Good-Game.jpg",
+     "url": "https://62a2xqvqaq3.globalcdn86.one/whwfb4a669539ce3e63b069",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7347,6 +8447,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Direjia2024.png",
      "url": "https://streamhls.com/view/08fe77d5-d820-5596-a241-395d4fe6fcc3.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Direnjie (2024) ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Direjia2024.png",
+     "url": "https://2khvflwve613.globalcdn37.one/whwdb4e41f939a83475a27d",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7360,6 +8467,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024.png",
      "url": "https://streamhls.com/view/d07b3002-0601-5d9f-85f8-43af0afe8f3d.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Heart of War Moment (2024) สงครามวัดใจ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024.png",
+     "url": "https://hkgwkp1ny13.globalcdn23.one/whwe12a44ea09db063b915b",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7373,6 +8487,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baby-Shark-s-Big-Movie.jpg",
      "url": "https://streamhls.com/view/33443013-d04b-5caf-b144-c72c36cb6466.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Baby Shark’s Big Movie (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baby-Shark-s-Big-Movie.jpg",
+     "url": "https://pkvui0ylwd9.globalcdn96.one/whwdf057b9f36af325cab03",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7389,10 +8510,24 @@
     },
     {
      "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+     "url": "https://low1p8w74.globalcdn87.one/whwdb3f62d23acb257a9c55",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
      "url": "https://streamhls.com/view/76f72a70-57de-54fb-a33d-c71992ac0218.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+     "url": "https://06skujith6.globalcdn11.one/whwfa3560d62bd62267bd",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7406,6 +8541,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024.jpg",
      "url": "https://streamhls.com/view/a860e4e1-5907-5243-9691-30b3e08ecacc.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Federer: Twelve Final Days (2024) เฟเดอเรอร์: สิบสองวันสุดท้าย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024.jpg",
+     "url": "https://fo58rbds7c12.globalcdn22.one/whwf0346ccd5ead3d67ac74",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7419,6 +8561,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-American-Society-of-Magical-Negroes-2024.jpg",
      "url": "https://streamhls.com/view/9d8b8cdc-ba54-5f8b-aa0e-b64fc1283b8c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The American Society of Magical Negroes (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-American-Society-of-Magical-Negroes-2024.jpg",
+     "url": "https://u2ehddfzr8.globalcdn93.one/whwda4a61e51adc166ab55f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -7818,10 +8967,24 @@
     },
     {
      "name": "Maharaj (2024) มหาราช",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Maharaj-2024.jpg",
+     "url": "https://sw5tjd2p021.globalcdn51.one/whwee4b65c338d73d6fbf53",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Maharaj (2024) มหาราช",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Maharaj-2024.jpg",
      "url": "https://streamhls.com/view/0679f0bc-8a70-5a0e-822f-11fccfc3a091.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Maharaj (2024) มหาราช",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Maharaj-2024.jpg",
+     "url": "https://rf8ntyesy30.globalcdn69.one/whwf2175cdf44fd7c43815e",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8000,6 +9163,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024.jpg",
      "url": "https://streamhls.com/view/c7e15aa4-a80a-5715-ac0e-e7146e247060.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Accidental Twins (2024) ฝาแฝดบังเอิญ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024.jpg",
+     "url": "https://9gyplgo7.globalcdn92.one/whwe0394d9036eb7c429243",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8016,10 +9186,24 @@
     },
     {
      "name": "Trigger Warning (2024) ลั่นไกเตือน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Trigger-Warning.jpg",
+     "url": "https://uidkbhzg527.globalcdn63.one/whwf73b5fcd23e83c479c5e",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Trigger Warning (2024) ลั่นไกเตือน",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Trigger-Warning.jpg",
      "url": "https://streamhls.com/view/0ed021cf-72d0-5f0a-b6dc-1f9e0d559184.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Trigger Warning (2024) ลั่นไกเตือน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Trigger-Warning.jpg",
+     "url": "https://w2wzzudtd0.globalcdn49.one/whwcc184bff3dcb074beb0760",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8035,6 +9219,13 @@
      "referer": "https://www.nung2hdd.com/"
     },
     {
+     "name": "Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Inside-Out-2.jpg",
+     "url": "https://i5q1qnni0.globalcdn10.one/whwca241ddc1fc01b61b763",
+     "referer": "https://abysscdn.com"
+    },
+    {
      "name": "Inside Out (2015) มหัศจรรย์อารมณ์อลเวง",
      "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",
@@ -8043,10 +9234,24 @@
     },
     {
      "name": "Inside Out (2015) มหัศจรรย์อารมณ์อลเวง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",
+     "url": "https://7tim0oqs21.globalcdn81.one/whwa83b12d736e50865ee69",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Inside Out (2015) มหัศจรรย์อารมณ์อลเวง",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",
      "url": "https://streamhls.com/view/cc1b101b-88d6-5ae3-af47-ecf90bc54998.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Inside Out (2015) มหัศจรรย์อารมณ์อลเวง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",
+     "url": "https://zfs6ipblc0.globalcdn20.one/whwa13b41c416eb3968aa69",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8060,6 +9265,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",
      "url": "https://streamhls.com/view/2d0262b5-2966-5910-adf5-0773c8b84201.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Formed Police Unit (2024) FPU หน่วยพยัคฆ์พิทักษ์ข้ามโลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",
+     "url": "https://fsxdgtwzb24.globalcdn57.one/whwcf3e50f24bc8074b9374",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8073,6 +9285,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024.jpg",
      "url": "https://streamhls.com/view/4b7c45ea-f4df-55db-a92c-bd67419b7870.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Strange Snake Story in Shangtong Village (2024) เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024.jpg",
+     "url": "https://5iyyjzxsyf5.globalcdn10.one/whwc10573ee1cf93841bd50",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8086,6 +9305,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Captives-2024.jpg",
      "url": "https://streamhls.com/view/dcff23c9-2199-5130-b2a6-c24d86190380.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Captives (2024) ปรสิตต่างดาว: จุดเริ่มต้น",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Captives-2024.jpg",
+     "url": "https://qma4zon314.globalcdn38.one/whwc25169e417ee0841b14f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8102,10 +9328,24 @@
     },
     {
      "name": "Kleks Academy (Akademia pana Kleksa) (2024) โรงเรียนมายาคุณเคล็กซ์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg",
+     "url": "https://eyrz2jlua0.globalcdn62.one/whwa84940cb29de084a887f",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Kleks Academy (Akademia pana Kleksa) (2024) โรงเรียนมายาคุณเคล็กซ์",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg",
      "url": "https://streamhls.com/view/6386ed11-a5ba-5e86-885b-a442e28f31da.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Kleks Academy (Akademia pana Kleksa) (2024) โรงเรียนมายาคุณเคล็กซ์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg",
+     "url": "https://htunxijf6.globalcdn33.one/whwf239629444fc605b9547",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8119,6 +9359,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Shuigui-Bride-2024.jpg",
      "url": "https://streamhls.com/view/9ab6c560-f2de-5eb0-97c8-04b4814db37c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Shuigui Bride (2024) เจ้าสาวสุดหลอน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Shuigui-Bride-2024.jpg",
+     "url": "https://0uwcq7bgb12.globalcdn22.one/whwde084bdf19ad3863ec4f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8132,6 +9379,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Inheritance-2024.jpg",
      "url": "https://streamhls.com/view/65d47dd7-ac14-5668-b9f0-f867a0fdbfdf.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Inheritance (2024) มรดกอลเวง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Inheritance-2024.jpg",
+     "url": "https://zxpctdr5w0.globalcdn35.one/whwf22e53fe17a93a41b667",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8145,6 +9399,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024.jpg",
      "url": "https://streamhls.com/view/cc521067-d667-5d9c-b822-5d1c390df0ce.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Big City Greens the Movie: Spacecation (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024.jpg",
+     "url": "https://5u0mr6otd0.globalcdn24.one/whwfa0f1b9e27cb00438a0705",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8158,6 +9419,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution.jpg",
      "url": "https://streamhls.com/view/6937d7d4-b8d6-5541-bc42-800c2fb3f2bf.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Outstanding: A Comedy Revolution (2024) ปฏิวัติคอมเมดี้",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution.jpg",
+     "url": "https://r9bn3kt10.globalcdn03.one/whwf22646d239f30e62b171",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -8171,6 +9439,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",
      "url": "https://streamhls.com/view/9fd03ff0-0c76-50f5-87ab-1f14763adc42.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ไชน่าทาวน์ ชะช่า (2024) Chinatown Chacha",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",
+     "url": "https://glezck7tz8.globalcdn14.one/whwf74b4cd122e5176eac53",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -9966,6 +11241,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mysteries-of-the-Terracotta-Warriors.jpg",
      "url": "https://streamhls.com/view/f7a9af5f-4cd8-51a7-b6fc-d63692771256.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mysteries of the Terracotta Warriors (2024) ปริศนานักรบดินเผา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mysteries-of-the-Terracotta-Warriors.jpg",
+     "url": "https://wmutjuwx10.globalcdn02.one/whwc704729544cd04539a04",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -9979,6 +11261,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hovering-Blade.png",
      "url": "https://streamhls.com/view/c64dd90b-5b0a-516d-a6ab-10b249966b81.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Hovering Blade (2024) คมมีดล้างแค้น",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hovering-Blade.png",
+     "url": "https://z0wpghaegf2.globalcdn06.one/whwa92d45cf42dd245d9641",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -9992,6 +11281,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Revolutionize-The-World.png",
      "url": "https://streamhls.com/view/ffc950c2-2980-5d0a-bbe2-68bb4c8da96a.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Revolutionize The World (2024) พลิกโลกกลับสวรรค์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Revolutionize-The-World.png",
+     "url": "https://xzwo14ogi6.globalcdn89.one/whwd01f4fe35ec9676f8975",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10005,6 +11301,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/PUPPET.png",
      "url": "https://streamhls.com/view/d9683ae1-797b-5571-bbad-b5da3f2d5ced.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Puppet (2024) ชีวิตที่ถูกยืมมา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/PUPPET.png",
+     "url": "https://d33ohxjb50.globalcdn78.one/whwf44c70cd47e51a69a06e",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10018,6 +11321,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/MUTANT.png",
      "url": "https://streamhls.com/view/a358795f-38eb-5b45-97c2-c46ca488d4ba.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mutant (2024) มนุษย์กลายพันธุ์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/MUTANT.png",
+     "url": "https://nb33mv5g15.globalcdn50.one/whwe83978942cfc1763a07f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10034,10 +11344,24 @@
     },
     {
      "name": "Ultraman: Rising (2024) อุลตร้าแมน: ผงาด",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Ultraman-Rising.jpg",
+     "url": "https://rsyybkd79.globalcdn40.one/whwf9455d9027f93a3b9b64",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Ultraman: Rising (2024) อุลตร้าแมน: ผงาด",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Ultraman-Rising.jpg",
      "url": "https://streamhls.com/view/2df326bd-e704-5bf1-9f52-f48ea58d106a.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Ultraman: Rising (2024) อุลตร้าแมน: ผงาด",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Ultraman-Rising.jpg",
+     "url": "https://85knqtmyzj8.globalcdn93.one/whwff4858e24aa7635b8805",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10113,6 +11437,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lost-But-Win.png",
      "url": "https://streamhls.com/view/18df498f-21ca-51d2-a04b-1f6166d2bb56.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Lost But Win (2024) ศึกยอดนักแข่ง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lost-But-Win.png",
+     "url": "https://yprrmy0dks0.globalcdn26.one/whwcb105a8b11f418569603",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10126,6 +11457,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jungle-Chase-2024.png",
      "url": "https://streamhls.com/view/57f0fdfd-dd02-52fe-8cc8-aa0eb54d36f7.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Jungle Chase (2024) ไล่ล่าป่าลึก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jungle-Chase-2024.png",
+     "url": "https://hx0mwmrly623.globalcdn67.one/whwd12f4fea31c63a679743",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10139,6 +11477,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/ESCAPE-AND-TRACK.png",
      "url": "https://streamhls.com/view/40704f09-3e2a-5c87-879b-f9ff21396848.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Escape And Track (2024) ร่องรอยหลบหนี",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/ESCAPE-AND-TRACK.png",
+     "url": "https://hx0mwmrly623.globalcdn67.one/whwcb196df325c029399b65",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10152,6 +11497,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Desperate-Sniper-2024.jpg",
      "url": "https://streamhls.com/view/c376f815-e713-5d8c-9c79-652961665c61.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Desperate Sniper (2024) มือปืนสิ้นหวัง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Desperate-Sniper-2024.jpg",
+     "url": "https://loenr42k76.globalcdn35.one/whwcb065cf714c7217cee4c",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10953,6 +12305,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Something-in-the-Water.jpg",
      "url": "https://streamhls.com/view/6e672840-e291-594e-b1e5-92686d5e4c53.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Something in the Water (2024) ครีบขย้ำคลั่งมหาสมุทร",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Something-in-the-Water.jpg",
+     "url": "https://6tehqrdtz0.globalcdn09.one/whwf6305b9314af333aa206",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10966,6 +12325,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
      "url": "https://streamhls.com/view/bd070217-d40c-5108-ac24-7e30449ef487.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Detective Conan vs. Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs. จอมโจรคิด",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
+     "url": "https://wmutjuwx10.globalcdn02.one/whwfc2346e92cb23c39be41",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10979,6 +12345,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Am-I-OK-2024.jpg",
      "url": "https://streamhls.com/view/babdfab0-4c8c-5d95-9d70-1daaf6e05301.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Am I OK? (2024) ถามใจว่าใช่ปะ?",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Am-I-OK-2024.jpg",
+     "url": "https://cxlplkj6z11.globalcdn45.one/whwdc1847ef39c76458e07a30",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -10995,10 +12368,24 @@
     },
     {
      "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
+     "url": "https://zvxgvcvta0.globalcdn95.one/whwd24d6fe711d8144dbb",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
      "url": "https://streamhls.com/view/f78d2d28-f730-5997-a677-ed362482bd01.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
+     "url": "https://cxlplkj6z11.globalcdn45.one/whwf12d5fe301d1334f974c",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11012,6 +12399,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Strangers-Chapter-1.jpg",
      "url": "https://streamhls.com/view/7b3eefdd-9bcd-5eb3-b338-4f7249daf9ab.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Strangers: Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Strangers-Chapter-1.jpg",
+     "url": "https://85knqtmyzj8.globalcdn93.one/whwcd2e50ec3bd72642bf6e",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11025,6 +12419,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Sting-2024.jpg",
      "url": "https://streamhls.com/view/551fc956-938a-5185-8288-3855e399e715.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Sting (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Sting-2024.jpg",
+     "url": "https://n4mj4eq30.globalcdn00.one/whwd9244cea02ed6761bb",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11038,6 +12439,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hit-Man-2024.jpg",
      "url": "https://streamhls.com/view/14b3e721-1a32-5e17-bd93-21f559593a4c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Hit Man (2024) นักฆ่าน่าหลอก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hit-Man-2024.jpg",
+     "url": "https://z0wpghaegf2.globalcdn06.one/whwf5067cf709d9355f9b41",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11051,6 +12459,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Nelma-Kodama-The-Queen-of-Dirty-Money.jpg",
      "url": "https://streamhls.com/view/f0b7804f-61ee-571b-b108-9a7a3d94adb4.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Nelma Kodama: The Queen of Dirty Money (2024) ราชินีเงินสกปรก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Nelma-Kodama-The-Queen-of-Dirty-Money.jpg",
+     "url": "https://rpxpmha1ma6.globalcdn34.one/whwdd321c9045c60778a07a",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11064,6 +12479,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Basma-2024.jpg",
      "url": "https://streamhls.com/view/6e67501b-8f1b-54c1-ac72-6a53603a0f11.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Basma (2024) บัสม่า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Basma-2024.jpg",
+     "url": "https://n4mj4eq30.globalcdn00.one/whwb54b52ca02ed6656ee62",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11080,10 +12502,24 @@
     },
     {
      "name": "Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
+     "url": "https://0noh0w3hp8.globalcdn37.one/whwaf0960fe25e9674eee",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
      "url": "https://streamhls.com/view/a8502ebe-48c3-56d7-8356-37aabd1067fa.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
+     "url": "https://i2sklndl617.globalcdn53.one/whwff1a73f719e73743897b",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11785,6 +13221,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/All-in-2024.jpg",
      "url": "https://streamhls.com/view/8a9bcd32-1021-59e4-b30f-9d5c9481777e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "All In (Po ke wang zhe) (2024) หมดหน้าตัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/All-in-2024.jpg",
+     "url": "https://5plhbn2ya21.globalcdn63.one/whwad177b9645cf7c39e9",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11798,6 +13241,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024.jpg",
      "url": "https://streamhls.com/view/963a28f1-1f1f-5eb3-8265-f2f737101843.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024.jpg",
+     "url": "https://ezozedvkg0.globalcdn85.one/whwee4d5ec729c5617588",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11814,10 +13264,24 @@
     },
     {
      "name": "The Price of Nonna’s Inheritance (Ricchi a tutti i costi) (2024) มรดกคุณยาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg",
+     "url": "https://iz1gra1ya25.globalcdn59.one/whwce0a42f512c7037da1416d",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "The Price of Nonna’s Inheritance (Ricchi a tutti i costi) (2024) มรดกคุณยาย",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg",
      "url": "https://streamhls.com/view/35e53654-b175-58e1-8f83-9d4f0b77a21d.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Price of Nonna’s Inheritance (Ricchi a tutti i costi) (2024) มรดกคุณยาย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg",
+     "url": "https://nm89dxquo10.globalcdn41.one/whwce4d59f211af3940ea77",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11834,10 +13298,24 @@
     },
     {
      "name": "Under Paris (Sous la Seine) (2024) มฤตยูใต้ปารีส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Under-Paris.jpg",
+     "url": "https://ckt56zy1.globalcdn04.one/whwf4096ce929ec1239bc71",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Under Paris (Sous la Seine) (2024) มฤตยูใต้ปารีส",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Under-Paris.jpg",
      "url": "https://streamhls.com/view/ca1700d2-36c4-5aa9-aa3f-2a713073428e.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Under Paris (Sous la Seine) (2024) มฤตยูใต้ปารีส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Under-Paris.jpg",
+     "url": "https://vgpahxds17.globalcdn55.one/whwac2864d442e91848a0",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11853,11 +13331,25 @@
      "referer": "https://www.nung2hdd.com/"
     },
     {
+     "name": "Too Old for Fairy Tales 2 (Za duzy na bajki 2) (2024) เทพนิยายไม่ใช่ของเด็กโต 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024.jpg",
+     "url": "https://vp21pcvva0.globalcdn15.one/whwf3115adc24d91a41997d",
+     "referer": "https://abysscdn.com"
+    },
+    {
      "name": "Too Old for Fairy Tales (2022) เทพนิยายไม่ใช่ของเด็กโต",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/gPOq67XJjKiUxjBWyRyICZnwHW9.jpg",
      "url": "https://streamhls.com/view/8744d13b-61f5-5a42-84c7-fc5e745ac7b6.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Too Old for Fairy Tales (2022) เทพนิยายไม่ใช่ของเด็กโต",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/gPOq67XJjKiUxjBWyRyICZnwHW9.jpg",
+     "url": "https://hkgwkp1ny13.globalcdn23.one/whwd03f61dc4bfc395f82",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -11995,6 +13487,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024.jpg",
      "url": "https://streamhls.com/view/94a4e058-8537-554d-9484-cf8b7b21bb2c.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Jim Henson Idea Man (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024.jpg",
+     "url": "https://2qnh95qh84.globalcdn31.one/whwea1147974ae53376ec6f",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -12008,6 +13507,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Boy-Kills-World.jpg",
      "url": "https://streamhls.com/view/c13f7dee-6e3d-5a81-95ef-70fa51d53f89.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Boy Kills World (2024) แค้นนี้ที่รอคิวล์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Boy-Kills-World.jpg",
+     "url": "https://2oasojer131.globalcdn70.one/whwe0065edc05aa1764817c21",
+     "referer": "https://abysscdn.com"
     }
    ]
   },
@@ -12024,10 +13530,24 @@
     },
     {
      "name": "Strawberry Shortcake’s Perfect Holiday (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023.jpg",
+     "url": "https://oivvcoz8j29.globalcdn78.one/whwf21047de29e8233a95",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Strawberry Shortcake’s Perfect Holiday (2023)",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023.jpg",
      "url": "https://streamhls.com/view/0960dcb3-08f3-5057-8009-17adfd2f1123.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Strawberry Shortcake’s Perfect Holiday (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023.jpg",
+     "url": "https://kgteyqrxl25.globalcdn70.one/whwaf2545901fa7697ce107",
+     "referer": "https://abysscdn.com"
     },
     {
      "name": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
@@ -12038,10 +13558,24 @@
     },
     {
      "name": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023.jpg",
+     "url": "https://i2g3bpgjq14.globalcdn49.one/whwdc1d58c325dd3f3ae0",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023.jpg",
      "url": "https://streamhls.com/view/fecbe0c5-35c4-5ba2-93ce-c83946465958.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023.jpg",
+     "url": "https://hw9vivp7.globalcdn36.one/whweb1b67c219c03a6ebe55",
+     "referer": "https://abysscdn.com"
     },
     {
      "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
@@ -12052,10 +13586,24 @@
     },
     {
      "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg",
+     "url": "https://go5tilu00.globalcdn16.one/whwe0304ee011c07c7fbb662d",
+     "referer": "https://abysscdn.com"
+    },
+    {
+     "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg",
      "url": "https://streamhls.com/view/9391fc5c-f870-55da-aaaa-f29fc37a0e18.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg",
+     "url": "https://dy29e8glx0.globalcdn38.one/whwf9131d9324e526429c5d",
+     "referer": "https://abysscdn.com"
     },
     {
      "name": "Strawberry Shortcake’s Summer Vacation (2024) วันหยุดฤดูร้อนของสตรอเบอร์รี่ ชอร์ทเค้ก",
